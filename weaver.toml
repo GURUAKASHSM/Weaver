@@ -1,0 +1,5 @@
+[serviceweaver]
+binary = "./hello"
+
+[multi]
+listeners.hello = {address = "localhost:8080"}
